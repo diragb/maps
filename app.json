@@ -24,13 +24,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.diragb.dev.maps"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "androidNavigationBar": {
       "visible": "immersive"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b20f2b75-dcca-42f2-a77e-7c91738aa6f7"
+      }
     }
   }
 }
