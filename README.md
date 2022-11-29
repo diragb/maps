@@ -7,4 +7,3 @@ After cloning the repository, run `npm i` followed by `npm start` in the directo
 To build the app, follow [these steps](https://docs.expo.dev/build/setup/) to setup EAS.
 
 A live example is available here: https://expo.dev/@diragb.dev/maps
-The .aab file is available here: https://expo.dev/artifacts/eas/3HhSxr6Y5idXhSiFufjLYi.aab
